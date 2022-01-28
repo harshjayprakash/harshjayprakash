@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello, there!
+
+- What I am up to: I'm currently a student studying an undergraduate degree in Computer Science.
+- I'm currenly learning Python 3.
+- How to reach me: harshjayprakash@outlook.com
 
 <!--
 **harshjayprakash/harshjayprakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
