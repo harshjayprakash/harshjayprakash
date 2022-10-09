@@ -7,22 +7,14 @@ I'm currently a student studying an undergraduate degree in Computer Science.
 
 #### Current Languages and Tools
 
-<style>
-    .dev-icon {
-        width: 35px;
-        padding-right: 10px;
-    }
-</style>
-
-
-<img class="dev-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img class="dev-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />          
-<img class="dev-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img class="dev-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />          
-<img class="dev-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />          
-<img class="dev-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />          
-<img class="dev-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img class="dev-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />          
+<img style="width: 35px; padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img style="width: 35px; padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />          
+<img style="width: 35px; padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img style="width: 35px; padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />          
+<img style="width: 35px; padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />          
+<img style="width: 35px; padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />          
+<img style="width: 35px; padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img style="width: 35px; padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />          
           
 
           
