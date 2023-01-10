@@ -3,8 +3,8 @@
 
 <svg
    width="1500"
-   height="500"
-   viewBox="0 0 396.87499 132.29167"
+   height="230"
+   viewBox="0 0 396.87499 60.854168"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
@@ -56,40 +56,41 @@
        y1="0.50067461"
        x2="396.52017"
        y2="131.791"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1,0.45999999)" />
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:url(#linearGradient874);stroke-width:0.257234;fill-opacity:1"
+       style="fill:url(#linearGradient874);fill-opacity:1;stroke-width:0.174464"
        id="rect111"
        width="396.875"
-       height="132.29167"
+       height="60.854168"
        x="0"
        y="-2.220446e-16" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-       x="42.567635"
-       y="62.149548"
+       x="18.793442"
+       y="29.504385"
        id="text4020"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         x="42.567635"
-         y="62.149548"
+         x="18.793442"
+         y="29.504385"
          id="tspan4022">Harsh Jayprakash.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';letter-spacing:0.396875px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-       x="42.734905"
-       y="74.515717"
+       x="18.960712"
+       y="41.870556"
        id="text4078"><tspan
          id="tspan4076"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         x="42.734905"
-         y="74.515717"
+         x="18.960712"
+         y="41.870556"
          sodipodi:role="line">A University Student.</tspan></text>
   </g>
 </svg>
