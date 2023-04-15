@@ -6,7 +6,7 @@
 course      := "Computer Science";
 qual        := "Bachelor's of Science (Honours)";
 place       := "University of Winchester";
-learning    := ["Java - At Uni", "Rust - Self"];
+learning    := "Java";
 ```
  
 ### Current Languages & Tools
