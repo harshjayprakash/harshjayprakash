@@ -13,6 +13,7 @@ learning    := "Angular & Typescript [Self]";
 <br/>
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-164e63?logo=visual-studio-code&logoColor=white&style=flat-square)
 ![JetBrains](https://img.shields.io/badge/-JetBrains-164e63?logo=jetbrains&logoColor=white&style=flat-square)
+![Netlify](https://img.shields.io/badge/-Netlify-164e63?logo=netlify&logoColor=white&style=flat-square)
 <br/>
 ![C](https://img.shields.io/badge/-C-164e63?logo=c&logoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-164e63?logo=python&logoColor=white&style=flat-square)
