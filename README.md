@@ -1,41 +1,24 @@
-<image src="./banner.png"></image>
- 
-### What I'm up to
-
+### Hello, there!
+I'm Harsh Jayprakash, a student.
 ```pas
 course      := "Computer Science";
 qual        := "Bachelor's of Science (Honours)";
 place       := "University of Winchester";
-learning    := "Java";
+learning    := "Angular & Typescript [Self]";
 ```
- 
 ### Current Languages & Tools
-<img align="left" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-<img align="left" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
-<img align="left" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />     
-<img align="left" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  
-<img align="left" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="left" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 
-                    
-          
- 
-<!--
-**harshjayprakash/harshjayprakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Windows](https://img.shields.io/badge/-Windows%20NT-164e63?logo=windows&logoColor=white&style=flat-square)
+![Linux](https://img.shields.io/badge/-Linux-164e63?logo=linux&logoColor=white&style=flat-square) 
+<br/>
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-164e63?logo=visual-studio-code&logoColor=white&style=flat-square)
+![JetBrains](https://img.shields.io/badge/-JetBrains-164e63?logo=jetbrains&logoColor=white&style=flat-square)
+<br/>
+![C](https://img.shields.io/badge/-C-164e63?logo=c&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/-Python-164e63?logo=python&logoColor=white&style=flat-square)
+![Java](https://img.shields.io/badge/-Java-164e63?logo=openjdk&logoColor=white&style=flat-square)
+<br/>
+![HTML](https://img.shields.io/badge/-HTML-164e63?logo=html5&logoColor=white&style=flat-square)
+![CSS](https://img.shields.io/badge/-CSS-164e63?logo=css3&logoColor=white&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-Typescript-164e63?logo=typescript&logoColor=white&style=flat-square)
+![Angular](https://img.shields.io/badge/-Angular-164e63?logo=angular&logoColor=white&style=flat-square)
