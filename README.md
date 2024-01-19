@@ -1,10 +1,15 @@
-### Hello, there!
-I'm Harsh Jayprakash, a student.
+## Hello, there!
+![Banner](banner.png)
+
 ```pas
 course      := "Computer Science";
 qual        := "Bachelor's of Science (Honours)";
 place       := "University of Winchester";
+
 learning    := "Angular & Typescript [Self]";
+
+contact     := "harshjayprakash@outlook.com";
+website     := "harshjay.netlify.app [Under Construction]";
 ```
 ### Current Languages & Tools
 
