@@ -1,5 +1,5 @@
 ## Hello, there!
-![Banner](banner.png)
+![Banner](profile-banner.png)
 
 ```pas
 course      := "Computer Science";
