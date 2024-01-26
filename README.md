@@ -13,18 +13,18 @@ website     := "harshjay.netlify.app [Under Construction]";
 ```
 ### Current Languages & Tools
 
-![Windows](https://img.shields.io/badge/-Windows%20NT-164e63?logo=windows&logoColor=white&style=flat-square)
-![Linux](https://img.shields.io/badge/-Linux-164e63?logo=linux&logoColor=white&style=flat-square) 
+![Windows](https://img.shields.io/badge/-Windows%20NT-white?logo=windows&logoColor=00585f&style=flat-square)
+![Linux](https://img.shields.io/badge/-Linux-white?logo=linux&logoColor=00585f&style=flat-square) 
 <br/>
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-164e63?logo=visual-studio-code&logoColor=white&style=flat-square)
-![JetBrains](https://img.shields.io/badge/-JetBrains-164e63?logo=jetbrains&logoColor=white&style=flat-square)
-![Netlify](https://img.shields.io/badge/-Netlify-164e63?logo=netlify&logoColor=white&style=flat-square)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-white?logo=visual-studio-code&logoColor=00585f&style=flat-square)
+![JetBrains](https://img.shields.io/badge/-JetBrains-white?logo=jetbrains&logoColor=00585f&style=flat-square)
+![Netlify](https://img.shields.io/badge/-Netlify-white?logo=netlify&logoColor=00585f&style=flat-square)
 <br/>
-![C](https://img.shields.io/badge/-C-164e63?logo=c&logoColor=white&style=flat-square)
-![Python](https://img.shields.io/badge/-Python-164e63?logo=python&logoColor=white&style=flat-square)
-![Java](https://img.shields.io/badge/-Java-164e63?logo=openjdk&logoColor=white&style=flat-square)
+![C](https://img.shields.io/badge/-C-white?logo=c&logoColor=00585f&style=flat-square)
+![Python](https://img.shields.io/badge/-Python-white?logo=python&logoColor=00585f&style=flat-square)
+![Java](https://img.shields.io/badge/-Java-white?logo=openjdk&logoColor=00585f&style=flat-square)
 <br/>
-![HTML](https://img.shields.io/badge/-HTML-164e63?logo=html5&logoColor=white&style=flat-square)
-![CSS](https://img.shields.io/badge/-CSS-164e63?logo=css3&logoColor=white&style=flat-square)
-![TypeScript](https://img.shields.io/badge/-Typescript-164e63?logo=typescript&logoColor=white&style=flat-square)
-![Angular](https://img.shields.io/badge/-Angular-164e63?logo=angular&logoColor=white&style=flat-square)
+![HTML](https://img.shields.io/badge/-HTML-white?logo=html5&logoColor=00585f&style=flat-square)
+![CSS](https://img.shields.io/badge/-CSS-white?logo=css3&logoColor=00585f&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-Typescript-white?logo=typescript&logoColor=00585f&style=flat-square)
+![Angular](https://img.shields.io/badge/-Angular-white?logo=angular&logoColor=00585f&style=flat-square)
