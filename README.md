@@ -34,10 +34,8 @@ website     := "harshjay.netlify.app [Under Construction]";
 ![TypeScript](https://img.shields.io/badge/-Typescript-white?logo=typescript&logoColor=00585f&style=flat-square)
 ![Angular](https://img.shields.io/badge/-Angular-white?logo=angular&logoColor=00585f&style=flat-square)
 
-### Repositories Prefixes
+### Repository Prefixes
 
-```pas
-personal     := "hx";
-sixth_form   := "bpc";
-university   := "uow";
-```
+- hx - personal projects
+- bpc - sixth form college
+- uow - university
