@@ -33,3 +33,11 @@ website     := "harshjay.netlify.app [Under Construction]";
 ![CSS](https://img.shields.io/badge/-CSS-white?logo=css3&logoColor=00585f&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-Typescript-white?logo=typescript&logoColor=00585f&style=flat-square)
 ![Angular](https://img.shields.io/badge/-Angular-white?logo=angular&logoColor=00585f&style=flat-square)
+
+### Repositories Prefixes
+
+```pas
+personal     := "hx";
+sixth_form   := "bpc";
+university   := "uow";
+```
