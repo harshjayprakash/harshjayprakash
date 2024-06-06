@@ -10,7 +10,6 @@ place       := "University of Winchester";
 learning    := "Angular & Typescript";
 
 contact     := "harshjayprakash@outlook.com";
-website     := "harshjay.netlify.app [Under Construction]";
 ```
 
 ### Current Languages & Tools
