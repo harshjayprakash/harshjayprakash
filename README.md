@@ -35,6 +35,8 @@ contact     := "harshjayprakash@outlook.com";
 
 ### Repository Prefixes
 
-- hx - personal projects
-- bpc - sixth form college
-- uow - university
+| Prefix | Description        |
+|:-------|:-------------------|
+| hx     | Personal Project   |
+| bpc    | Sixth Form College |
+| uow    | University         |
