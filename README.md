@@ -21,6 +21,6 @@ LanguagesAndTools = (
 
 ### Repository Prefixes
 
-![Personal Project Prefix](https://img.shields.io/badge/HX_-Personal%20Project-00585f?style=flat-square)
-![Sixth Form Prefix](https://img.shields.io/badge/BPC_-Sixth%20Form-00585f?style=flat-square)
-![University Prefix](https://img.shields.io/badge/UOW_-University-00585f?style=flat-square)
+![Personal Project Prefix](https://img.shields.io/badge/HX_-Personal%20Project-ffffff?style=flat-square&labelColor=00585f&color=ffffff)
+![Sixth Form Prefix](https://img.shields.io/badge/BPC_-Sixth%20Form-ffffff?style=flat-square&labelColor=00585f&color=ffffff)
+![University Prefix](https://img.shields.io/badge/UOW_-University-ffffff?style=flat-square&labelColor=00585f&color=ffffff)
