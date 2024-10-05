@@ -1,6 +1,6 @@
 ## Hello, there
 
-![Banner](banner-2408.png)
+![Banner](Banner.png)
 
 ```pas
 Qual        := 'Bachelors in Computer Science';
