@@ -17,6 +17,6 @@ Languages           := ('C', 'Python', 'Java', 'TypeScript', 'HTML', 'CSS', 'Pas
 Frameworks          := ('Angular', 'Vue')
 ```
 
-<details>
-    <summary><h3>Repository Codes</h3></summary>
-</details>
+### Additional Links
+
+![Understanding Repository Reference Codes](Understanding-Codes.md)
