@@ -1,6 +1,6 @@
-## Hello, there
+![Profile Banner](./resources/profile-banner.png)
 
-![Banner](Banner.png)
+## Hello, there
 
 ```pas
 Qual        := 'Bachelors in Computer Science';
@@ -19,8 +19,6 @@ LanguagesAndTools = (
 )
 ```
 
-### Repository Prefixes
-
-![Personal Project Prefix](https://img.shields.io/badge/HX_-Personal%20Project-ffffff?style=flat-square&labelColor=00585f&color=ffffff)
-![Sixth Form Prefix](https://img.shields.io/badge/BPC_-Sixth%20Form-ffffff?style=flat-square&labelColor=00585f&color=ffffff)
-![University Prefix](https://img.shields.io/badge/UOW_-University-ffffff?style=flat-square&labelColor=00585f&color=ffffff)
+<details>
+    <summary><h3>Repository Codes</h3></summary>
+</details>
