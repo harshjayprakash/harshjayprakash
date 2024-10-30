@@ -5,18 +5,16 @@
 ```pas
 Qual        := 'Bachelors in Computer Science';
 Mail        := 'harshjayprakash@outlook.com';
-Learning    := 'Angular, TypeScript & Windows API';
 ```
 
 ### Current Languages & Tools
 
 ```pas
-LanguagesAndTools = (
-    'Windows', 'Linux'
-    'VSCode', 'JetBrains',
-    'C', 'Python', 'Java', 'HTML', 'CSS', 'TypeScript',
-    'Angular'
-)
+OperatingSystems    := ('Windows NT', 'Linux');
+CodeEditors         := ('VSCode', 'Visual Studio','JetBrains');
+Tools               := ('Make', 'Node.JS', 'WSL', 'VMware Workstation');
+Languages           := ('C', 'Python', 'Java', 'TypeScript', 'HTML', 'CSS', 'Pascal')
+Frameworks          := ('Angular', 'Vue')
 ```
 
 <details>
