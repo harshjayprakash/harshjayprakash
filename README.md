@@ -19,7 +19,7 @@ Frameworks          := ('Angular', 'Vue')
 ```
 
 <details>
-<summary>Repository Reference Code System (RRCS)</summary>
+<summary><strong>Repository Reference Code System (RRCS)</strong></summary>
 Each project/repository has a reference code attach to it describing when and if was some
 sort of assignment or personal project. Below shows a figure breaking down the code
 `HX 2450`. (Inspired by Processor Naming).
