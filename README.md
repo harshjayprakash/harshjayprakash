@@ -33,6 +33,7 @@ Each repository uses some form of git branch, if development is still ongoing. T
 below shows all the potential branches.
 
 <br />
+<br />
 
 | Branch      | Description                                        |
 | :---------- | :------------------------------------------------- |
