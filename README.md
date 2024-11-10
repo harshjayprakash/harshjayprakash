@@ -26,3 +26,20 @@ sort of assignment or personal project. Below shows a figure breaking down the c
 
 ![Reference Code Diagram](./resources/rrc-codes.png)
 </details>
+
+<details>
+<summary><strong>Repository Git Flow System</strong></summary>
+Each repository uses some form of git branch, if development is still ongoing. The table
+below shows all the potential branches.
+
+| Branch      | Description                                        |
+| :---------- | :------------------------------------------------- |
+| `main`      | Most stable version of the project.                |
+| `hotfix`    | For urgent fixes that require immediate attention. |
+| `next`      | A preparatory branch.                              |
+| `dev`       | Active development branch.                         |
+| `feature/*` | Individual branches for developing new features.   |
+| `rewrite/*` | Rewrite branch.                                    |
+| `gh-pages`  | For GitHub Pages deployment.                       |
+
+</details>
