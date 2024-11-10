@@ -32,6 +32,8 @@ sort of assignment or personal project. Below shows a figure breaking down the c
 Each repository uses some form of git branch, if development is still ongoing. The table
 below shows all the potential branches.
 
+<br />
+
 | Branch      | Description                                        |
 | :---------- | :------------------------------------------------- |
 | `main`      | Most stable version of the project.                |
