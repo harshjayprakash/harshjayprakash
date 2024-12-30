@@ -1,6 +1,6 @@
 ## Hello, there
 
-![Profile Banner](./resources/profile-banner.png)
+![Profile Banner](./github_profile_readme_raster.png)
 
 ```pas
 Qual        := 'Bachelors in Computer Science';
