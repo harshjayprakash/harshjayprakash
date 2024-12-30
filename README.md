@@ -26,5 +26,6 @@ sort of assignment or personal project. Below shows a figure breaking down the c
 "HX 2450". (Inspired by Processor Naming).
 <br/>
 <br/>
+
 ![Reference Code Diagram](./github_repository_reference_codes_raster.png)
 </details>
