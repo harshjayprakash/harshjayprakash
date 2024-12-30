@@ -23,7 +23,7 @@ Frameworks          := ('Angular', 'Vue')
 <br/>
 Each project/repository has a reference code attach to it describing when and if was some
 sort of assignment or personal project. Below shows a figure breaking down the code
-`HX 2450`. (Inspired by Processor Naming).
+"HX 2450". (Inspired by Processor Naming).
 
 ![Reference Code Diagram](./resources/rrc-codes.png)
 </details>
