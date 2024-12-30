@@ -25,7 +25,7 @@ Each project/repository has a reference code attach to it describing when and if
 sort of assignment or personal project. Below shows a figure breaking down the code
 "HX 2450". (Inspired by Processor Naming).
 
-![Reference Code Diagram](./resources/rrc-codes.png)
+![Reference Code Diagram](./github_repository_reference_codes_raster.png)
 </details>
 
 <details>
