@@ -40,13 +40,3 @@ only be two possible values:
 
 This is a zero-based project counter to resolve conflicts with projects created within the
 same time period.
-
-## Reference: Status
-
-This denotes the status of the project, e.g.
-
-* "Active Development" -- currently working on the project
-* "Halted" -- will work on, but development has currently stopped.
-* "Maintaining" -- will only maintain for security purposes but no major changes will be
-made.
-* "End" -- end of a project, no changes will be made. Public for portfolio availability.
