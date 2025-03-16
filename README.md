@@ -22,4 +22,4 @@ TraditionalDesktop  := 'C', 'Python', 'Java', 'Visual Basic .NET', 'Pascal'
 
 ## Additional
 
-[Repository References "[Code, Status]"](./REFERENCE.md)
+[Repository References](./REFERENCE.md)
