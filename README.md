@@ -1,31 +1,25 @@
-## Hello, there
+# Hello
 
-![Profile Banner](./github_profile_readme_raster.png)
+![Profile Banner](./assets/github_readme_greeting_banner_raster.png)
 
 ```pas
 Qual        := 'Bachelors in Computer Science';
 Mail        := 'harshjayprakash@outlook.com';
 ```
 
-### Current Languages & Tools
+## Current Languages & Tools
 
 ```pas
-OperatingSystems    := ('Windows NT', 'Linux');
-CodeEditors         := ('VSCode', 'Visual Studio','JetBrains');
-Tools               := ('Make', 'Node.JS', 'WSL', 'VMware Workstation');
-Languages           := ('C', 'Python', 'Java', 'TypeScript', 'HTML', 'CSS', 
-                        'Pascal', 'Visual Basic .NET')
-Frameworks          := ('Angular', 'Vue')
+OS                  := 'Windows NT', 'Linux'
+Editors             := 'VSCode', 'Visual Studio', 'JetBrains IntelliJ'
+Tools               := 'Make', 'NodeJS', 'Git'
+UIUX                := 'Figma', 'Pen+Paper'
+
+{ languages }
+FrontEndWeb         := 'HTML', 'CSS', 'TS', 'Vue', 'Angular'
+TraditionalDesktop  := 'C', 'Python', 'Java', 'Visual Basic .NET', 'Pascal'
 ```
 
-<details>
-<summary><strong>Understanding Repository Reference Codes</strong></summary>
-<br/>
-Each project/repository has a reference code attach to it describing when and if was some
-sort of assignment or personal project. Below shows a figure breaking down the code
-"HX 2450". (Inspired by Processor Naming).
-<br/>
-<br/>
+## Additional
 
-![Reference Code Diagram](./github_repository_reference_codes_raster.png)
-</details>
+[Repository References "[Code, Status]"](./REFERENCE.md)
