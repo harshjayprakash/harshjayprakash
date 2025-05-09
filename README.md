@@ -6,6 +6,12 @@
   <img alt="banner" src="./assets/gh-greeting-light-raster.png">
 </picture>
 
+## About
+
+Hi, I'm Harsh Jayprakash, a software engineer who enjoys the craft of programming -
+focusing on human-centred, functional and thoughtful digital experiences. I also like
+creating diagrams following a unified visual languages.
+
 ```pascal
 const
   Qual = 'Bachelors in Computer Science';
