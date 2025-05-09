@@ -22,11 +22,11 @@ const
 
 ```pascal
 const
-  OS                 = ('Windows NT', 'GNU+Linux' );
-  Editors            = ( 'VSCode', 'Visual Studio', 'JetBrains IntelliJ' );
-  Tools              = ( 'Make', 'NodeJS', 'Deno', 'Git' );
-  UIUX               = ( 'Figma', 'Analogue Pen+Paper' );
-  { languages }
-  FrontEndWeb        = ( 'HTML', 'CSS', 'TypeScript', 'Vue', 'Angular' );
-  TraditionalDesktop = ( 'C', 'Python', 'Java', 'Visual Basic .NET', 'Pascal');
+  OS                = ('Windows NT', 'GNU+Linux' );
+  Editors           = ( 'VSCode', 'Visual Studio', 'JetBrains IntelliJ' );
+  Tools             = ( 'Make', 'NodeJS', 'Deno', 'Git' );
+  UIUX              = ( 'Figma', 'Analogue Pen+Paper' );
+
+  FrontEndWebDev    = ( 'HTML', 'CSS', 'TypeScript', 'Vue', 'Angular' );
+  DesktopDev        = ( 'C', 'Python', 'Java', 'Visual Basic .NET', 'Pascal');
 ```
