@@ -19,7 +19,3 @@ UIUX                := 'Figma', 'Pen+Paper'
 FrontEndWeb         := 'HTML', 'CSS', 'TS', 'Vue', 'Angular'
 TraditionalDesktop  := 'C', 'Python', 'Java', 'Visual Basic .NET', 'Pascal'
 ```
-
-## Additional
-
-[Repository References](./REFERENCE.md)
