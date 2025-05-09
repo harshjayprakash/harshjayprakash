@@ -14,8 +14,12 @@ creating diagrams following a unified visual languages.
 
 ```pascal
 const
-  Qual = 'Bachelors in Computer Science';
-  Mail = 'harshjayprakash@outlook.com';
+  Qual         = 'Bachelors in Computer Science';
+  Mail         = 'harshjayprakash@outlook.com';
+  Role         = 'Looking for work.';
+
+  WorkingOn    = ( 'experimental-blok :: next v5.0', 
+                   'harshjayprakash.github.io :: gathering ideas' );
 ```
 
 ## Current Languages & Tools
