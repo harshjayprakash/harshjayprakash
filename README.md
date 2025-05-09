@@ -13,13 +13,13 @@ Mail        := 'harshjayprakash@outlook.com';
 
 ## Current Languages & Tools
 
-```pas
-OS                  := 'Windows NT', 'Linux'
-Editors             := 'VSCode', 'Visual Studio', 'JetBrains IntelliJ'
-Tools               := 'Make', 'NodeJS', 'Git'
-UIUX                := 'Figma', 'Pen+Paper'
-
-{ languages }
-FrontEndWeb         := 'HTML', 'CSS', 'TS', 'Vue', 'Angular'
-TraditionalDesktop  := 'C', 'Python', 'Java', 'Visual Basic .NET', 'Pascal'
+```pascal
+const
+  OS                 = ('Windows NT', 'GNU+Linux' );
+  Editors            = ( 'VSCode', 'Visual Studio', 'JetBrains IntelliJ' );
+  Tools              = ( 'Make', 'NodeJS', 'Deno', 'Git' );
+  UIUX               = ( 'Figma', 'Analogue Pen+Paper' );
+  { languages }
+  FrontEndWeb        = ( 'HTML', 'CSS', 'TypeScript', 'Vue', 'Angular' );
+  TraditionalDesktop = ( 'C', 'Python', 'Java', 'Visual Basic .NET', 'Pascal');
 ```
