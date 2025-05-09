@@ -6,9 +6,10 @@
   <img alt="banner" src="./assets/gh-greeting-light-raster.png">
 </picture>
 
-```pas
-Qual        := 'Bachelors in Computer Science';
-Mail        := 'harshjayprakash@outlook.com';
+```pascal
+const
+  Qual = 'Bachelors in Computer Science';
+  Mail = 'harshjayprakash@outlook.com';
 ```
 
 ## Current Languages & Tools
