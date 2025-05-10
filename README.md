@@ -9,8 +9,9 @@
 ## About
 
 Hi, I'm Harsh Jayprakash, a software engineer who enjoys the craft of programming -
-focusing on human-centred, functional and thoughtful digital experiences. I also like
-creating diagrams following a unified visual languages.
+focusing on human-centred, functional, and thoughtful digital experiences. I also like
+creating diagrams that follow a unified visual language, bringing clarity and structure
+to complex ideas.
 
 ```pascal
 const
