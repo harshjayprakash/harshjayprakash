@@ -15,12 +15,12 @@ to complex ideas.
 
 ```pascal
 const
-  Qual         = 'Bachelors in Computer Science';
-  Mail         = 'harshjayprakash@outlook.com';
-  Role         = 'Looking for work.';
+  Qual              = 'Bachelors in Computer Science';
+  Mail              = 'harshjayprakash@outlook.com';
+  Role              = 'Looking for work.';
 
-  WorkingOn    = ( 'experimental-blok :: next v5.0', 
-                   'harshjayprakash.github.io :: gathering ideas' );
+  WorkingOn         = ( 'experimental-blok :: next v5.0', 
+                        'harshjayprakash.github.io :: gathering ideas' );
 ```
 
 ## Current Languages & Tools
