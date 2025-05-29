@@ -19,7 +19,8 @@ const
   Mail              = 'harshjayprakash@outlook.com';
   Role              = 'Looking for work.';
 
-  WorkingOn         = ( 'experimental-blok :: next v5.0', 
+  WorkingOn         = ( 'experimental-blok :: next v5.0',
+                        'algorithmic-art-playground :: next v2.0',
                         'harshjayprakash.github.io :: gathering ideas' );
 ```
 
