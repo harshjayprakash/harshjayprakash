@@ -20,7 +20,8 @@ const
 
   WorkingOn         = ( 'experimental-blok            :: next v5.0',
                         'algorithmic-art-playground   :: next v2.0',
-                        'harshjayprakash.github.io    :: gathering ideas, next v5.1' );
+                        'harshjayprakash.github.io    :: gathering ideas,'
+                                                         + 'next v5.1' );
 ```
 
 ## Current Languages & Tools
