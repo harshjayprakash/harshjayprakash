@@ -2,6 +2,9 @@
 
 I'm a developer drawn to the quiet craft of programming.
 
+* I have a degree in Computer Science from The University of Winchester (2024)
+* I'm currently looking for experience/job in the industry.
+
 ### What I'm working on
 
 - `harshjayprakash.github.io`: (v4006.x) Refining the documentation.
