@@ -13,6 +13,6 @@ I'm a developer drawn to the quiet craft of programming.
 
 ### The process
 
-- Trello boards mirror phase progression through a kanban rhythm - from "Inbox", "Deferred" to "Archived:{version}".
+- Trello boards mirror phase progression through a kanban rhythm - from "Inbox", "Deferred" to "Archived:{version}". (*Boards are not publicly available*)
 - [Epoch Semantic Versioning](https://antfu.me/posts/epoch-semver) encodes lifecycle milestones; each `main` push marks a new turn.
 - Documentation is modular and discoverable source, with development history for deeper exploration. (*Work in Progress*)
