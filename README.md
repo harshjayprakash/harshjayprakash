@@ -22,5 +22,5 @@ I'm a developer drawn to the quiet craft of programming.
 ### The philosophy
 
 - Software should feel quiet. Clear, scalable, and unobstrusive.
-- Every artifact, from code to documentation, is part of a system.
+- Every artefact, from code to documentation, is part of a system.
 - Modularity is not just technical. It is cognitive. It helps with clear thinking.
