@@ -1,26 +1,16 @@
 ## Hello, I'm Harsh.
 
-I'm a developer drawn to the quiet craft of programming.
+I am a developer drawn to the craft of programming.
 
 * I have a degree in Computer Science from The University of Winchester (2024).
-* I'm currently looking for experience/job in the industry.
+* I'm actively seeking opportunities in Software Development or IT.
+* I have a strong interest in the Windows Operating System.
 
-### What I'm working on
+### What I'm working on.
 
-- `algorithmic-art-playground`: Re-constructing.
-- `experimental-blok`, `harshjayprakash.github.io`: Working on Wikis for some projects.
-- Improving READMEs.
-- Unifying screenshots and figures.
+- `experimental-blok` (7.0): upgrading internal architecture and UI.
+- `harshjayprakash.github.io` (7.0): redesigning portfolio to reflect dual focus on Software and IT.
+- `algorithmic-art-playground` (2.0): refining the previous version, focusing on complete functionality.
+- `trigonometric-helper` (v2.0, private): rebooting a sixth form project with improvement to the UIs and Logic.
 
-### The process
-
-- Trello Boards - Kanban-style tracking for development and progressive logging.
-- [Epoch Semantic Version](https://antfu.me/posts/epoch-semver) - Milestone-based versiooning.
-- Documentation - Treating every README, wiki, and changelog as a system.
-- Internal Codenames (Alchemical Materials) - Each codename acts as a signature for a milestone or epoch.
-
-### The philosophy
-
-- Software should feel quiet. Clear, scalable, and unobstrusive.
-- Every artefact, from code to documentation, is part of a system.
-- Modularity is not just technical. It is cognitive. It helps with clear thinking.
+> Every project has a story and intent.
