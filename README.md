@@ -6,4 +6,6 @@
 
 ### What I'm working on.
 
-- `harshjayprakash.github.io` (v1.0) - Rewritting and Redesigning with Static HTML and CSS.
+- `harshjayprakash.github.io` (v1): rewriting a new static version.
+- `algorithmic-art` (v1): rewriting, separating ui from core logic, allowing cli-only mode.
+- `experimental-blok` (v1): redesigning ui component system.
