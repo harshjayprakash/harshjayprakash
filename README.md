@@ -1,5 +1,6 @@
 ## Hello, I'm Harsh.
 
-* I have a degree in Computer Science from The University of Winchester (2024).
-* I'm seeking opportunities in IT or Software Development.
-* I have a strong interest in the Windows Operating System.
+* Computer Science graduate (University of Winchester, 2024).
+* Seeking opportunities in IT Support.
+* Long-time Windows enthusiast (using and exploring it since 2006).
+* Programming since 2015.
