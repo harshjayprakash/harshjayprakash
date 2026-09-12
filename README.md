@@ -1,6 +1,7 @@
 ## Hello, I'm Harsh.
 
-* Bachelors in Computer Science (University of Winchester, 2024).
-* Seeking opportunities in IT Support.
-* Windows enthusiast (using and exploring it since 2006).
-* Started programming in 2015.
+* BSc (Hons) Computer Science - University of Winchester, 2024.
+* Windows systems, troubleshooting, and small-scale development.
+* Using and learning Windows since 2006.
+* I enjoy programming and often write small tools to study behaviour.
+* Public work in Git; long-term personal projects maintained in Subversion.
