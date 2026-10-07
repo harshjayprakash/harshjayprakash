@@ -1,7 +1,5 @@
 ## Hello, I'm Harsh.
 
-* BSc (Hons) Computer Science - University of Winchester, 2024.
-* Windows systems, troubleshooting, and small-scale development.
-* Using and learning Windows since 2006.
-* I enjoy programming and often write small tools to study behaviour.
-* Public work in Git; long-term personal projects maintained in Subversion.
+I hold a BSc (Hons) in Computer Science from the University of Winchester and have a long-standing interest in Windows systems, troubleshooting, and software behaviour.
+
+I enjoy building small tools and experiments to better understand how thinks work. Public work is available here on GitHub, while long-iterm projects are maintained in Subversion.
